@@ -29,6 +29,7 @@ Nothing here is clever. That's rather the point. The guardrails that save you ra
 | [enforce-tags](enforce-tags/) | Find untagged resources, then enforce tags as code | [Untagged Azure resources](https://www.fradley.org.uk/blog/enforce-azure-tags-as-code.html) |
 | [find-public-storage](find-public-storage/) | Find storage accounts open to the public | [Find your public-facing storage](https://www.fradley.org.uk/blog/find-public-storage.html) |
 | [identity](identity/) | A managed identity instead of a stored secret | [Identity is your security perimeter](https://www.fradley.org.uk/blog/identity-is-the-perimeter.html) |
+| [adopt-existing](adopt-existing/) | Bring a hand-built resource under Terraform, untouched | [From ClickOps to code, without the big-bang rewrite](https://www.fradley.org.uk/blog/clickops-to-code.html) |
 
 ## Who this is for
 

@@ -31,6 +31,7 @@ Nothing here is clever. That's rather the point. The guardrails that save you ra
 | [identity](identity/) | A managed identity instead of a stored secret | [Identity is your security perimeter](https://www.fradley.org.uk/blog/identity-is-the-perimeter.html) |
 | [adopt-existing](adopt-existing/) | Bring a hand-built resource under Terraform, untouched | [From ClickOps to code, without the big-bang rewrite](https://www.fradley.org.uk/blog/clickops-to-code.html) |
 | [builtin-initiatives](builtin-initiatives/) | Switch on a ready-made compliance rule-set in audit mode | [Azure Policy out of the box: 5,000 guardrails you already own](https://www.fradley.org.uk/blog/azure-policy-out-of-the-box.html) |
+| [secure-llm-endpoint](secure-llm-endpoint/) | An Azure OpenAI endpoint with keys off, Entra ID only, behind a private endpoint | [LLM endpoints are the new public storage accounts](https://www.fradley.org.uk/blog/llm-endpoints-new-public-storage.html) |
 
 ## Who this is for
 

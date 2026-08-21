@@ -33,6 +33,7 @@ Nothing here is clever. That's rather the point. The guardrails that save you ra
 | [builtin-initiatives](builtin-initiatives/) | Switch on a ready-made compliance rule-set in audit mode | [Azure Policy out of the box: 5,000 guardrails you already own](https://www.fradley.org.uk/blog/azure-policy-out-of-the-box.html) |
 | [secure-llm-endpoint](secure-llm-endpoint/) | An Azure OpenAI endpoint with keys off, Entra ID only, behind a private endpoint | [LLM endpoints are the new public storage accounts](https://www.fradley.org.uk/blog/llm-endpoints-new-public-storage.html) |
 | [migration-end-date](migration-end-date/) | A rehosted VM that carries the date its decision gets revisited | [Lift-and-shift with a written end date](https://www.fradley.org.uk/blog/lift-and-shift-end-date.html) |
+| [federated-credential](federated-credential/) | A GitHub Actions deploy to Azure with no stored secret | [Delete the secret, don't rotate it](https://www.fradley.org.uk/blog/delete-the-secret-dont-rotate-it.html) |
 
 ## Who this is for
 

@@ -34,6 +34,7 @@ Nothing here is clever. That's rather the point. The guardrails that save you ra
 | [secure-llm-endpoint](secure-llm-endpoint/) | An Azure OpenAI endpoint with keys off, Entra ID only, behind a private endpoint | [LLM endpoints are the new public storage accounts](https://www.fradley.org.uk/blog/llm-endpoints-new-public-storage.html) |
 | [migration-end-date](migration-end-date/) | A rehosted VM that carries the date its decision gets revisited | [Lift-and-shift with a written end date](https://www.fradley.org.uk/blog/lift-and-shift-end-date.html) |
 | [federated-credential](federated-credential/) | An Azure DevOps service connection with no stored secret | [Delete the secret, don't rotate it](https://www.fradley.org.uk/blog/delete-the-secret-dont-rotate-it.html) |
+| [half-built-landing-zone](half-built-landing-zone/) | Size the gaps in a part-finished landing zone, then fix identity first | [What to finish first in a half-built landing zone](https://www.fradley.org.uk/blog/half-built-landing-zone.html) |
 
 ## Who this is for
 

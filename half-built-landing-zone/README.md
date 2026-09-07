@@ -1,8 +1,8 @@
 # Sizing and sequencing a half-built landing zone
 
-The foundations are real: hub-and-spoke, a subscription structure, Terraform for the
-platform, a pipeline, some Azure Policy. Four things are half done, workloads keep
-landing while you fix them, and you have five engineers and a roadmap that will not pause.
+The foundations are real. The topology holds up, the subscription boundaries mean
+something, and the platform deploys from code. Four things on top of it are half done,
+workloads keep landing while you fix them, and the team is smaller than the demand.
 
 The article argues the ordering variable is not risk. It is how much each gap costs to
 close after another quarter of delivery. These two files cover the measuring and the

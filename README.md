@@ -37,6 +37,7 @@ Nothing here is clever. That's rather the point. The guardrails that save you ra
 | [half-built-landing-zone](half-built-landing-zone/) | Size the gaps in a part-finished landing zone, then fix identity first | [What to finish first in a half-built landing zone](https://www.fradley.org.uk/blog/half-built-landing-zone.html) |
 | [ruleset-from-traffic](ruleset-from-traffic/) | Record what crosses a legacy network, then find the NSG rules nothing uses | [Don't migrate a firewall rule nobody can explain](https://www.fradley.org.uk/blog/firewall-rules-nobody-can-explain.html) |
 | [ai-agent-guardrails](ai-agent-guardrails/) | Find the AI already in the tenant, then add key-off and private-only policies and a per-agent token quota | [Put AI agents in the landing zone you already have](https://www.fradley.org.uk/blog/ai-agents-in-the-landing-zone.html) |
+| [ai-workload-perimeter](ai-workload-perimeter/) | Show an AI workload's real perimeter, then deny public access on its model and data services | [Put your AI behind your own perimeter](https://www.fradley.org.uk/blog/secure-ai-behind-your-perimeter.html) |
 
 ## Who this is for
 
